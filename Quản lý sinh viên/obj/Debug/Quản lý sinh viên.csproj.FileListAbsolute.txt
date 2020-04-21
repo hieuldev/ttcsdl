@@ -8,3 +8,14 @@ C:\Users\User\source\repos\Quản lý sinh viên\Quản lý sinh viên\obj\Debug
 C:\Users\User\source\repos\Quản lý sinh viên\Quản lý sinh viên\obj\Debug\Quản lý sinh viên.csproj.GenerateResource.cache
 C:\Users\User\source\repos\Quản lý sinh viên\Quản lý sinh viên\obj\Debug\Quản lý sinh viên.exe
 C:\Users\User\source\repos\Quản lý sinh viên\Quản lý sinh viên\obj\Debug\Quản lý sinh viên.pdb
+D:\New folder\ttcsdl\Quản lý sinh viên\bin\Debug\Quản lý sinh viên.exe.config
+D:\New folder\ttcsdl\Quản lý sinh viên\bin\Debug\Quản lý sinh viên.exe
+D:\New folder\ttcsdl\Quản lý sinh viên\bin\Debug\Quản lý sinh viên.pdb
+D:\New folder\ttcsdl\Quản lý sinh viên\obj\Debug\Quản lý sinh viên.csprojAssemblyReference.cache
+D:\New folder\ttcsdl\Quản lý sinh viên\obj\Debug\Quản_lý_sinh_viên.frmDN.resources
+D:\New folder\ttcsdl\Quản lý sinh viên\obj\Debug\Quản_lý_sinh_viên.frmMain.resources
+D:\New folder\ttcsdl\Quản lý sinh viên\obj\Debug\Quản_lý_sinh_viên.Properties.Resources.resources
+D:\New folder\ttcsdl\Quản lý sinh viên\obj\Debug\Quản lý sinh viên.csproj.GenerateResource.cache
+D:\New folder\ttcsdl\Quản lý sinh viên\obj\Debug\Quản lý sinh viên.exe
+D:\New folder\ttcsdl\Quản lý sinh viên\obj\Debug\Quản lý sinh viên.pdb
+D:\New folder\ttcsdl\Quản lý sinh viên\obj\Debug\Quản_lý_sinh_viên.frmDssvdathocbong.resources

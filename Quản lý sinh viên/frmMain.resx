@@ -117,13 +117,86 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="toolTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>342, 3</value>
-  </metadata>
   <metadata name="statusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>447, 3</value>
+    <value>574, 3</value>
+  </metadata>
+  <metadata name="toolTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>469, 3</value>
   </metadata>
   <metadata name="menuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>575, 3</value>
+    <value>342, 3</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFkAAAA9CAYAAADGbsXjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAJdJREFUeF7t0DEBADAMwKC5rX8FnYrm4sAAb2aWW5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSz81+lHS7dwsh3nwAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="button2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFkAAAA9CAYAAADGbsXjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAJdJREFUeF7t0DEBADAMwKC5rX8FnYrm4sAAb2aWW5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSz81+lHS7dwsh3nwAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFkAAAA9CAYAAADGbsXjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAJdJREFUeF7t0DEBADAMwKC5rX8FnYrm4sAAb2aWW5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSz81+lHS7dwsh3nwAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="btl5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFkAAAA9CAYAAADGbsXjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAJdJREFUeF7t0DEBADAMwKC5rX8FnYrm4sAAb2aWW5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSz81+lHS7dwsh3nwAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="btl6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFkAAAA9CAYAAADGbsXjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAJdJREFUeF7t0DEBADAMwKC5rX8FnYrm4sAAb2aWW5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSz81+lHS7dwsh3nwAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="btl2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFkAAAA9CAYAAADGbsXjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAJdJREFUeF7t0DEBADAMwKC5rX8FnYrm4sAAb2aWW5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSz81+lHS7dwsh3nwAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="btl4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFkAAAA9CAYAAADGbsXjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAJdJREFUeF7t0DEBADAMwKC5rX8FnYrm4sAAb2aWW5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSz81+lHS7dwsh3nwAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="btl1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFkAAAA9CAYAAADGbsXjAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAJdJREFUeF7t0DEBADAMwKC5rX8FnYrm4sAAb2aWW5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOS
+        A5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSA5IDkgOSz81+lHS7dwsh3nwAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
 </root>
